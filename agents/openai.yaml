@@ -1,0 +1,7 @@
+interface:
+  display_name: "國文教材圖解工作室"
+  short_description: "將國文來源轉成圖解教材、講稿、PDF 與教學文章"
+  brand_color: "#315D58"
+  default_prompt: "使用 $chinese-teaching-material-studio 將這份國文教材設計成可編輯圖文教材、教師講稿與版面安全的 PDF。"
+policy:
+  allow_implicit_invocation: true
